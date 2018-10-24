@@ -1,0 +1,12 @@
+{
+  "name": "picxel",
+  "version": "0.0.0",
+  "author": "Julian Eggers",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write app.js"
+  },
+  "devDependencies": {
+    "prettier": "1.14.3"
+  }
+}
